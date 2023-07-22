@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/erfanmomeniii/ks/cmd"
 	"os"
+
+	"github.com/erfanmomeniii/ks/cmd"
 )
 
 func main() {
